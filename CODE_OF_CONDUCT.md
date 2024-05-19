@@ -1,5 +1,10 @@
 # Contributor Covenant Code of Conduct
 
+Some codes of conduct for microfinance used in this GitHub are listed below in order to avoid conflicts and enable smooth integration and merging of the codes.
+If you have any further questions or problems, please contact the administrator.
+
+
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
